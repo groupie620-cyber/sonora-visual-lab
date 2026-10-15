@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T06:16:57.812Z",
+  "generatedAt": "2026-10-15T06:57:02.317Z",
   "files": [
     {
       "path": "dist/_headers",
@@ -17,9 +17,9 @@
       "sha256": "fd8830b6e7e061a9dfdd820584a2641b4ff9e4f7bf03f6854e33cd357e04cf41"
     },
     {
-      "path": "dist/assets/index-CfsRjme5.js",
-      "bytes": 347072,
-      "sha256": "5a44cebea0d00f5d9a33859944f1ed9047346e591720505a4aca8e5645b42fe2"
+      "path": "dist/assets/index-ESZAeAuR.js",
+      "bytes": 349554,
+      "sha256": "29f396432daff14def2fe06a957e42c7ca0983772b97ae33f1e08d9ea9d82eea"
     },
     {
       "path": "dist/icons/apple-touch-icon.png",
@@ -54,7 +54,7 @@
     {
       "path": "dist/index.html",
       "bytes": 1213,
-      "sha256": "ae1e202965a3b69cde0f117decabfb0e58ba74de12e461c60f2f3f7d3d847dc1"
+      "sha256": "318af594240b56ee8d3b569984ad71fa77cd8e8b534535cd95b596ab56b733bb"
     },
     {
       "path": "dist/manifest.webmanifest",
