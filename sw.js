@@ -1,4 +1,4 @@
-const CACHE_VERSION = "sonora-v2";
+const CACHE_VERSION = "sonora-v3";
 const SCOPE_URL = new URL(self.registration.scope);
 const APP_ROOT = SCOPE_URL.pathname;
 const APP_SHELL = ["./", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-512.png", "icons/apple-touch-icon.png"]

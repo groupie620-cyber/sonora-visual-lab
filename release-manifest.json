@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T08:27:12Z",
+  "generatedAt": "2026-10-15T09:13:49.860Z",
   "files": [
     {
       "path": "dist/_headers",
@@ -12,14 +12,24 @@
       "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
     },
     {
-      "path": "dist/assets/index-BW6Hgz3k.css",
-      "bytes": 27878,
-      "sha256": "57ae12ca00cbffb5930905b2bcbaa5f6d31e6ce6b013019eff0be0dff8169852"
+      "path": "dist/assets/index-CA7d8Ms1.js",
+      "bytes": 5920629,
+      "sha256": "359cfdac9b51361cd54665c366e6350d995c24662f4b9e93bbd3278efe1faa05"
     },
     {
-      "path": "dist/assets/index-UjWj3HBp.js",
-      "bytes": 379597,
-      "sha256": "3e4d072cca525c46f25584b8eb7867cf3ad07db305434515c75645168f2cb8bb"
+      "path": "dist/assets/index-Dgg03JU0.js",
+      "bytes": 389116,
+      "sha256": "3c74978de09ac0d950ca33d4a89eccc075917354e0ca680b95d8b08b3109f612"
+    },
+    {
+      "path": "dist/assets/index-DjuVwMyS.css",
+      "bytes": 29996,
+      "sha256": "1ffff14aa0d87ac959fd456a3d70faedf47aba98e1b0e2861dfcd062bad57f16"
+    },
+    {
+      "path": "dist/assets/webllm-worker-Ob9nmZ40.js",
+      "bytes": 6141011,
+      "sha256": "5d43ed5726476c518ced45d32c41963ea932157fbafd18f8eec9098404a13784"
     },
     {
       "path": "dist/icons/apple-touch-icon.png",
@@ -54,7 +64,7 @@
     {
       "path": "dist/index.html",
       "bytes": 1213,
-      "sha256": "b7810cc24006588998b7e04c83491fc0abda459f99868d4d0f49d60b5ebf231a"
+      "sha256": "f05c97627d620cadb4fe0fbb122f9ed39ce87e4cf3daeb3035a74ea85d7c6c12"
     },
     {
       "path": "dist/manifest.webmanifest",
@@ -64,7 +74,7 @@
     {
       "path": "dist/sw.js",
       "bytes": 1986,
-      "sha256": "3ebcfdabaa69a906c80db0aa2c56b3a747105ab28a1bd5827b25243c3d1ae51d"
+      "sha256": "865b5295a8fdde01d59349d58d90715790f09247570e3c12a4633fce1432d33f"
     }
   ]
 }
