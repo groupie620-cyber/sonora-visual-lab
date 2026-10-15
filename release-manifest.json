@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2026-10-15T02:20:54.972Z",
+  "files": [
+    {
+      "path": "dist/_headers",
+      "bytes": 326,
+      "sha256": "5d66cdec3c94fe300802e5d9cc8ec28ff0c88448e70bb82113bc40c42a55901a"
+    },
+    {
+      "path": "dist/.nojekyll",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "dist/assets/index-BgQy0zFy.js",
+      "bytes": 287512,
+      "sha256": "34bf1afa5d6335bf0d97f15fe8414ba8181a3b5d6c10ba6eb39bf021c662c00d"
+    },
+    {
+      "path": "dist/assets/index-BkBiI9xJ.css",
+      "bytes": 22888,
+      "sha256": "ef5505620679eb1fdfe1c6bc05b8cbe3c364fcc69c1192c071900fd0e45f806a"
+    },
+    {
+      "path": "dist/icons/apple-touch-icon.png",
+      "bytes": 19863,
+      "sha256": "ff0d8b097484e0a20dbc3cab3a215f4e0e9bc55bca4f5cb39eaeb87f819c1ced"
+    },
+    {
+      "path": "dist/icons/icon-192.png",
+      "bytes": 21260,
+      "sha256": "b934366bd526cae0f0cb05fbefa01226cc3c0973a84b56b664bfdee70da15ad5"
+    },
+    {
+      "path": "dist/icons/icon-512.png",
+      "bytes": 37841,
+      "sha256": "f1dfa2dd9e3490b73adbccc612c97913381f2823760a0c4d41cce50fffdd720f"
+    },
+    {
+      "path": "dist/icons/icon-maskable-512.png",
+      "bytes": 30023,
+      "sha256": "b683952dac5b0e36bc21a5cdd4a863495b92eb2805b1936217c982880a26beca"
+    },
+    {
+      "path": "dist/icons/icon-maskable.svg",
+      "bytes": 785,
+      "sha256": "74ff22c94f21ec47cd152f0b32231d998b0b2b75e14beb2b281679a67d9dcf82"
+    },
+    {
+      "path": "dist/icons/icon.svg",
+      "bytes": 887,
+      "sha256": "c04a2b50e176c47919823aab28803408c638a8218f1db4d71aeda4704b22184b"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 1213,
+      "sha256": "7b27d0b820d9dc4c55242a5b0ed133bbdd5a03026d51dc184ebb870742cd7273"
+    },
+    {
+      "path": "dist/manifest.webmanifest",
+      "bytes": 1146,
+      "sha256": "b252cfa65420945c26d3e7231605235bbebc3b46e7d0f70379370935a56239a4"
+    },
+    {
+      "path": "dist/sw.js",
+      "bytes": 1986,
+      "sha256": "3d7591cffe2c3a46ae9842288234a060f0d72226ad67242a5e775bb0063b1f29"
+    }
+  ]
+}
