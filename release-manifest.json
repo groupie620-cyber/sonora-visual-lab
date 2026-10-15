@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T02:20:54.972Z",
+  "generatedAt": "2026-10-15T03:05:35.534Z",
   "files": [
     {
       "path": "dist/_headers",
@@ -12,9 +12,9 @@
       "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
     },
     {
-      "path": "dist/assets/index-BgQy0zFy.js",
-      "bytes": 287512,
-      "sha256": "34bf1afa5d6335bf0d97f15fe8414ba8181a3b5d6c10ba6eb39bf021c662c00d"
+      "path": "dist/assets/index-BjLv4P61.js",
+      "bytes": 301590,
+      "sha256": "0471ecef7a25a1e553166b99cbf67b67a6b1a06c7d3fa0434bff7b6aa89ceebb"
     },
     {
       "path": "dist/assets/index-BkBiI9xJ.css",
@@ -54,7 +54,7 @@
     {
       "path": "dist/index.html",
       "bytes": 1213,
-      "sha256": "7b27d0b820d9dc4c55242a5b0ed133bbdd5a03026d51dc184ebb870742cd7273"
+      "sha256": "65a23c9713fca5f6387e18ec86a79d1c7cac31e61bf0624fad2273dfde771502"
     },
     {
       "path": "dist/manifest.webmanifest",
@@ -64,7 +64,7 @@
     {
       "path": "dist/sw.js",
       "bytes": 1986,
-      "sha256": "3d7591cffe2c3a46ae9842288234a060f0d72226ad67242a5e775bb0063b1f29"
+      "sha256": "3ebcfdabaa69a906c80db0aa2c56b3a747105ab28a1bd5827b25243c3d1ae51d"
     }
   ]
 }
